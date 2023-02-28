@@ -1,0 +1,12 @@
+would you like to create a readme? y/n
+
+title of project
+Description
+
+Table of Contents - links to each section 
+Installation
+Usage
+License - list of options 
+Contirbuting
+Tests
+Questions - github for contact - email for contact
