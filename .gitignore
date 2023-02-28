@@ -198,3 +198,4 @@ $RECYCLE.BIN/
 *.lnk
 
 notes/
+/readme-gen.md
