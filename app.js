@@ -23,7 +23,7 @@ inquirer.prompt([
     name: 'details',
   },
   {
-    type: "input",
+    type: "list",
     name: "license",
     message: "What license would you like to use?",
     choices: [
