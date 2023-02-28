@@ -13,7 +13,7 @@ My task is to create a command-line application that dynamically generates a pro
 The application will be invoked by using the following command:
 
 ```bash
-node index.js
+node app.js
 ```
 
 ## User Story
