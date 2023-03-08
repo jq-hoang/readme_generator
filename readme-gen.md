@@ -8,21 +8,13 @@
 - [Contact Information](#contact-information)
 
 ## Introduction
-SAD AF is a dummy application that does not perform any specific task. This README file provides information on how to install and use the application.
+SAD AF is a dummy application that does not perform any specific task besides being a name for This README file.
 
 ## Installation Instructions
-To install SAD AF, follow these steps:
-
-1. Clone the repository from GitHub: `git clone https://github.com/username/sad-af.git`
-2. Navigate to the cloned directory: `cd sad-af`
-3. Run the installation command: `npm install`
+To install SAD AF, run the installation command: `npm install`
 
 ## Usage Instructions
-To use SAD AF, follow these steps:
-
-1. Run the application: `npm start`
-2. Open a web browser and go to http://localhost:3000
-3. You should see a message saying "Welcome to SAD AF!"
+To use SAD AF, Run the application: `npm start`
 
 ## License
 SAD AF is licensed under the DWTFYW license. See LICENSE file for more information.
