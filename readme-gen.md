@@ -20,7 +20,7 @@ To use SAD AF, Run the application: `npm start`
 SAD AF is licensed under the DWTFYW license. See LICENSE file for more information.
 
 ## GitHub Repository
-The source code for SAD AF can be found on GitHub at https://github.com/username/sad-af.
+The source code for SAD AF can be found on GitHub at https://github.com/JHoang6900
 
 ## Contact Information
 If you have any questions or issues with SAD AF, please contact the author at JHoang@gmail.com.
