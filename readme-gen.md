@@ -31,4 +31,4 @@ SAD AF is licensed under the DWTFYW license. See LICENSE file for more informati
 The source code for SAD AF can be found on GitHub at https://github.com/username/sad-af.
 
 ## Contact Information
-If you have any questions or issues with SAD AF, please contact the author at author@email.com.
+If you have any questions or issues with SAD AF, please contact the author at JHoang@gmail.com.
